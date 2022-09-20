@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d9d2622060310ff05f36e3ccdd39d5a5",
+    "revision": "e8b29f951d8e7f19c4a12a24ea3e6aec",
     "url": "https://somprasongd.github.io/csb-q7uqj2/index.html"
   },
   {
-    "revision": "e0e76809c06b5a11800e",
+    "revision": "25d6277f3b56386d78a8",
     "url": "https://somprasongd.github.io/csb-q7uqj2/static/css/main.4ae0e82a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://somprasongd.github.io/csb-q7uqj2/static/js/2.00bd58ef.chunk.js"
   },
   {
-    "revision": "e0e76809c06b5a11800e",
-    "url": "https://somprasongd.github.io/csb-q7uqj2/static/js/main.877d91a3.chunk.js"
+    "revision": "25d6277f3b56386d78a8",
+    "url": "https://somprasongd.github.io/csb-q7uqj2/static/js/main.23d1aa15.chunk.js"
   },
   {
     "revision": "c92e1a93c13ed7541f6e",
